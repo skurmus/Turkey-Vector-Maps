@@ -2,6 +2,7 @@
 Area, centroid and population weighted vector maps of Turkey in IBBS4 to IBBS1 detail.
 
 ![IBBS4 Population Weighted Map](/PopulationWeighted/PNG/IBBS4.png?raw=true "IBBS4 Population Weighted Map")
+![IBBS4 Centroid Map](/Centroids/PNG/IBBS4.png?raw=true "IBBS4 Centroid Map")
     
 *(Quick note for those of you who want to map the 2018 elections: this set is missing two IBBS4 entities that were incorporated in August 2017. The Aksaray district has a new subdistrict which used to be a "belde" within the Merkez subdistrict before: Sultanhanı. The "belde" of Kemalpaşa that used to be a part of Artvin district's Hopa subdistrict also became a subdistrict. So if you are perfectionist, either get your GIS program out and carve these out--and please update this git if you do so, or add the results for these subsdistricts together in your data set. If you are not a perfectionist, the difference is really small, so you can basically ignore these:)*
 
