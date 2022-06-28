@@ -21,7 +21,7 @@ Each directory contains 5 or 6 files:
 
 Area maps were initially based on a couple of different sources. I simplified the geometries quite a lot and even divided some IBBS4 districts by hand.
 Centroids were simply done by using QGIS.
-Weighted Population Maps were initially done with ScapeToad (https://scapetoad.choros.ch/) for all levels separately and hand cleaned.
+Weighted Population Maps were initially done with ScapeToad (http://scapetoad.choros.place/) for all levels separately and hand cleaned.
 
 All files contain a lot of namespace. For each level above (including the level of the current file) there are four names:
 - The Turkish Name
